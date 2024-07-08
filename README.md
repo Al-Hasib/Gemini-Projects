@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ```
 Run the app on your local
 ```python
-streamlit run Q&A_ChatBot\chatbot.py
+streamlit run Q&A_ChatBot/chatbot.py
 ```
 ## Thank You
